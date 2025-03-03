@@ -16,7 +16,7 @@ In this activity, we cleaned an excel sheet fill of errors and redundancy using 
 ![screenshot](/Midterm%20Task%201/Images/Before.png)
 
 ## Step 4 After
-![screenshot](/Midterm%20Tas%201/Images/After.png)
+![screenshot](/Midterm%20Task%201/Images/After.png)
 
 ## Here's the Physical Data Model
-<img src="images/ERD.....png" alt="Alt Text" Width="800" heigth="500">
+![screenshot](/Midterm%20Task%201/Images/Relation.PNG)
