@@ -13,7 +13,7 @@ In this activity, we cleaned an excel sheet fill of errors and redundancy using 
 - Perform 3NF
 - Mapped the Normalized Tables as a Physical Data Model
 ## Step 3 BEFORE
-![screenshot](/Midterm Task 1/Images/1.jfif)
+![screenshot](/Midterm%20Task%201/Images/1.jfif)
 
 ## Step 4 AFTER
 <img src="images/DataNOR.png" alt="Alt Text" Width="800" heigth="500">
