@@ -7,6 +7,6 @@ Hello, My name is Prince Christian C. Divina and i'm currently taking my first y
 - Highschool: Bonifacio V. Romero High School
 - Elementary: EPZA Resettlement Elementary School
 # My Projects
-- Midterm Lab Task 1
+- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/READ.md)
 - Midterm Lab Task 2
 
