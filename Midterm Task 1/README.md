@@ -19,4 +19,4 @@ In this activity, we cleaned an excel sheet fill of errors and redundancy using 
 ![screenshot](/Midterm%20Task%201/Images/After.png)
 
 ## Here's the Physical Data Model
-![screenshot]()
+![screenshot](/Midterm%20Task%201/Images/Relation.PNG)
