@@ -100,16 +100,27 @@
 ![screenshot](/Midterm%20Task%202/Images/Data%20Cleaning%20Activities.PNG)
 
 ## Here's the screenshot of my output after I started data cleaning
-
+- Uncleaned_DS_jobs
+  
 ![screenshot](/Midterm%20Task%202/Images/Uncleaned_DS_jobs.png)
+
+- Sal_by_role_type_dup
 
 ![screenshot](/Midterm%20Task%202/Images/Sal_by_role_type_dup.png)
 
+- Sal_by_size_ref
+
 ![screenshot](/Midterm%20Task%202/Images/Sal_by_size_ref.png)
+
+- Sal_by_size_role_type_dup
 
 ![screenshot](/Midterm%20Task%202/Images/Sal_by_size_role_type_dup.png)
 
+- Sal_by_state_ref
+
 ![screenshot](/Midterm%20Task%202/Images/Sal_by_state_ref.png)
+
+- States
 
 ![screenshot](/Midterm%20Task%202/Images/states.png)
 
