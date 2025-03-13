@@ -7,6 +7,6 @@ Hello, my name is Prince Christian C. Divina, and I'm currently taking my first 
 - Highschool: Bonifacio V. Romero High School
 - Elementary: EPZA Resettlement Elementary School
 # My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://princeeee26.github.io/Midterm-Lab-Task-1-Data-Cleaning-and-Preparation-using-Excel)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://princeeee26.github.io/Midterm-Lab-Task-2-Data-Cleaning-and-Preparation-using-Power-Query)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Princeeee26/Midterm-Lab-Task-1-Data-Cleaning-and-Preparation-using-Excel)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://github.com/Princeeee26/Midterm-Lab-Task-2-Data-Cleaning-and-Preparation-using-Power-Query)
 
