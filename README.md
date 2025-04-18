@@ -21,4 +21,4 @@ Hello, my name is Prince Christian C. Divina, and I'm currently taking my first 
 
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables using MySQL Workbench](https://princeeee26.github.io/Finals-Lab-Task-2.-Transforming-ER-Model-to-Relational-Tables-Using-MySQL-Workbench/)
 
-- Finals Lab Task 3: [Table Manipulation using MySQL Workbench](https://princeeee26.github.io/Finals-Task-3.-Table-Manipulation-using-mySQL-Workbench/)
+- Finals Lab Task 3: [Table Manipulation using MySQL Workbench](https://princeeee26.github.io/Finals-Lab-Task-3.-Table-Manipulation-using-mySQL-Workbench/)
