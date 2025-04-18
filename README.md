@@ -14,6 +14,8 @@ Hello, my name is Prince Christian C. Divina, and I'm currently taking my first 
   
 - Midterm Lab Task 3: [Creating Dashboard and Pivot Table](https://princeeee26.github.io/Midterm-Lab-Task-3-Creating-Dashboard-and-Pivot-Table/)
 
-- Finals Lab Task 1: [Creating Multi-Level Company Database Using MySQL Workbench](https://princeeee26.github.io/Finals-Lab-Task-1.-MySQL-Basics-Multi-Level-Company/)
+- Finals Lab Task 1: [Creating Multi-Level Company Database using MySQL Workbench](https://princeeee26.github.io/Finals-Lab-Task-1.-MySQL-Basics-Multi-Level-Company/)
 
-- Finals Lab Task 2: [Transforming ER Model to Relational Tables Using MySQL Workbench](https://princeeee26.github.io/Finals-Lab-Task-2.-Transforming-ER-Model-to-Relational-Tables-Using-MySQL-Workbench/)
+- Finals Lab Task 2: [Transforming ER Model to Relational Tables using MySQL Workbench](https://princeeee26.github.io/Finals-Lab-Task-2.-Transforming-ER-Model-to-Relational-Tables-Using-MySQL-Workbench/)
+
+- Finals Lab Task 3: [Table Manipulation using MySQL Workbench](https://princeeee26.github.io/Finals-Task-3.-Table-Manipulation-using-mySQL-Workbench/)
