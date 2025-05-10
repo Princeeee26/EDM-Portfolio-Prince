@@ -11,7 +11,7 @@ Hello, my name is Prince Christian C. Divina, and I'm currently taking my first 
 - Elementary: EPZA Resettlement Elementary School
   
 # My Projects
-Midterms
+## Midterms
 
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://princeeee26.github.io/Midterm-Lab-Task-1-Data-Cleaning-and-Preparation-using-Excel/)
   
@@ -19,7 +19,7 @@ Midterms
   
 - Midterm Lab Task 3: [Creating Dashboard and Pivot Table](https://princeeee26.github.io/Midterm-Lab-Task-3-Creating-Dashboard-and-Pivot-Table/)
 
-Finals
+## Finals
 
 - Finals Lab Task 1: [Creating Multi-Level Company Database using MySQL Workbench](https://princeeee26.github.io/Finals-Lab-Task-1.-MySQL-Basics-Multi-Level-Company/)
 
