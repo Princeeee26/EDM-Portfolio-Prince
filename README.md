@@ -29,4 +29,4 @@ Hello, my name is Prince Christian C. Divina, and I'm currently taking my first 
 
 - Finals Lab Task 4: [MySQL Clause Execution: From Creation to Query](https://princeeee26.github.io/Finals-Task-4-Using-MYSQL-Clause/)
 
-- Finals Lab Task 5:
+- Finals Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions](https://princeeee26.github.io/Finals-Task-5-Using-SQL-views-and-Stored-Procedures-and-Stored-Functions/)
